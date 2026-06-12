@@ -2,6 +2,7 @@
 # Register Number :212224040117
 # Name: HIBA NASREEN M
 # AIM :
+# Date: 24/04/26
 ## To write a C program to implement a symbol table.
 # ALGORITHM
 1.	Start the program.
